@@ -13,5 +13,6 @@
       "@/*": ["*"],
     }
   },
+  "exclude": ["dist"],
   "include": ["src"]
 }
